@@ -21,7 +21,7 @@ Here:
 * **k_obs**: Kinetic rates obtaineds from the KiPaD script.
 * **[L]**: Concentration of the Ligand added at every experiment from which k_obs is determined.
 
-**Step 2**: Load the libraries, modules and functions *(Modules and functions)*. This step only needs to be performed once regardless of the number of datasets to process.
+**Step 2**: Load the libraries, modules and functions *(Environment)*. This step only needs to be performed once regardless of the number of datasets to process.
 
 **Step 3**: Run the next cell *(Upload files)*. A message will appear below it asking the user to select the file to be uploaded.
 
