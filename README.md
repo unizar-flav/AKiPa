@@ -37,7 +37,7 @@ Here:
 
 **Step 6**: This cell *(Procesa)* runs the *procesa()* function performns the optimization of the proposed fitting method. The cell will print the residuals at each iteration and when the optimization process is finish it will print the optimized values of the parameters of the model proposed and their standard deviation.
 
-**Step 7**:  The final cell*(Export results)* will gather all the inputted and generated data and save it as a set of CSV and HTML files within a ZIP archive. List of data:
+**Step 7**:  The final cell *(Export results)* will gather all the inputted and generated data and save it as a set of CSV and HTML files within a ZIP archive. List of data:
 1. Original experimental data
 2. Modelled data
 3. Intial parameters along with the fitting result from procesa (optimized parameters, their standard deviation, and details from the fitting process)
