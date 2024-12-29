@@ -4,7 +4,6 @@
 ## Overview
 AKiPa is a python script aimed to analyze pre-steady state kinetic data obtained from analysis of stopped-flow data (KiPaD), namely $k_{obs}$ at different ligand concentrations ([L]), to determine the interaction and kinetic parameters of the observed process: dissociation constant ($K_d$) and limiting rate constant for the reactive process ($k_{lim}$)
 
-the observed rate constants obtained from the KiPaD script, from data obtained from multiwavelength time-resolved absorption spectroscopy by using stopped-flow.
 
 ## Usage
 This software is developed in Google Colab. To access it, click on the Google Colab badge above or this [link](https://colab.research.google.com/github/unizar-flav/AKiPa/blob/master/AkiPa.ipynb).
