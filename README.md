@@ -32,7 +32,7 @@ Here:
       -  $k_{on}$ is the ligand association rate.
       -  $k_{off}$ is the ligand dissociation rate.
     - **Hyperbolic**: exceutes a hyperbolic fitting with the following expression: $k_{obs}= \frac{[L] \cdot k_{lim}}{[L] + K_d}$
-      -  $K_d$ is the equilibrium dissociation constant determined as $K_d = \frac{k_off}{k_on}$.
+      -  $K_d$ is the equilibrium dissociation constant determined as $K_d = \frac{k_{off}}{k_{on}}}$.
       -  $k_{lim}$ is the limiting rate constant.
 
 **Step 6**: This cell *(Procesa)* runs the *procesa()* function performns the optimization of the proposed fitting method. The cell will print the residuals at each iteration and when the optimization process is finish it will print the optimized values of the parameters of the model proposed and their standard deviation.
