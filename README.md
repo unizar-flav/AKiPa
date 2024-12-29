@@ -1,10 +1,11 @@
 # AKiPa
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unizar-flav/AKiPa/blob/master/AkiPa.ipynb)
 
 ## Overview
 AKiPa is a python script aimed to analyze the observed rate constants obtained from the KiPaD script, from data obtained from multiwavelength time-resolved absorption spectroscopy by using stopped-flow.
 
 ## Usage
-This software is developed in Google Colab. To access it, click on the Google Colab badge above or this [link] ().
+This software is developed in Google Colab. To access it, click on the Google Colab badge above or this [link] (https://colab.research.google.com/github/unizar-flav/AKiPa/blob/master/AkiPa.ipynb).
 
 **Step 1**: Verify the data's format. It must be a CSV file and with the following structure:
 
